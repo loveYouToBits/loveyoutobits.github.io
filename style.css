@@ -75,7 +75,13 @@ P
 
 .center
 {
- text-align: center;
+ 	text-align: center;
+}
+
+#mail
+{
+ 	text-align: center;
+ 	font-size: 18pt;
 }
 
 .background
@@ -95,6 +101,8 @@ P
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-bottom: 10px;
+	max-width: 350px;
+	width:100%;
 }
 
 
