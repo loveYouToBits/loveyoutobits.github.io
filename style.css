@@ -86,15 +86,10 @@ P
 	position: relative;
 	padding-right: 3px;
 	padding-left:3px;
+	margin-top: 6px;
 	max-width: 350px;
 	width:100%;
 }
-
-.screenshotThumbnail IMG
-{
-	margin-top: 6px;
-}
-
 
 A, A:visited
 {
